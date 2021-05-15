@@ -1,6 +1,6 @@
 package io.javasmithy.math;
 
-public class Math {
+public class Tools {
 
     public static double norm(String[] p, String[]q){
         double norm = -1;
